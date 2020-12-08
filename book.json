@@ -1,0 +1,30 @@
+{
+    "plugins": [
+        "-lunr",
+        "expandable-chapters-small",
+        "todo",
+        "splitter",
+        "pageview-count",
+        "flexible-alerts",
+        "page-copyright",
+        "-search",
+        "search-pro",
+        "back-to-top-button",
+        "code"
+    ],
+    "pluginsConfig": {
+        "page-copyright": {
+            "description": "Modified At",
+	    "signature": "",
+            "wisdom": "专注Cloud Native",
+            "format": "YYYY-MM-dd hh:mm:ss",
+            "copyright": "Copyright &#169; 李坚才个人博客",
+            "timeColor": "#666",
+            "copyrightColor": "#666",
+            "utcOffset": "8",
+            "style": "normal",
+            "Powered": false,
+            "isShowQRCode": false
+        }
+    }
+}
